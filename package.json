@@ -11,7 +11,7 @@
         "type": "git",
         "url": "git+https://github.com/hemashushu/js-json.git"
     },
-    "author": "",
+    "author": "Hemashushu <hippospark@gmail.com>",
     "license": "MPL-2.0",
     "bugs": {
         "url": "https://github.com/hemashushu/js-json/issues"
